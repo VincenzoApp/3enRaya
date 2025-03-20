@@ -1,12 +1,10 @@
 const cacheName = 'tris-game-v1';
 const assets = [
     '/',
-    '/index.html',
+    '/Juego Tris V6.html',  // Correct the filename to match the actual file name
     '/sw.js',
-    '/icon.png',  // Add your app icon here
-    '/styles.css',  // If you have external CSS files, add them here
-    '/game.js',  // Include the JS file if it's separate from sw.js
-    // Add any other resources needed for the game here
+    '/manifest.json',
+    '/icon.png',  // Ensure the app icon is in the root directory
 ];
 
 // Install service worker and cache assets
