@@ -1,7 +1,7 @@
 const cacheName = 'tris-game-v1';
 const assets = [
     '/',
-    '/Juego Tris V6.html',  // Correct the filename to match the actual file name
+    '/index.html',  // Correct the filename to match the actual file name
     '/sw.js',
     '/manifest.json',
     '/icon.png',  // Ensure the app icon is in the root directory
