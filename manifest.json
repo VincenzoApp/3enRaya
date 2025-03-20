@@ -1,7 +1,7 @@
 {
     "name": "Tris - Juego para dos",
     "short_name": "Tris",
-    "start_url": "Juego Tris V6.html",  // Correct the filename
+    "start_url": "Juego Tris V6.html",  
     "display": "standalone",
     "background_color": "#f4f4f4",
     "theme_color": "#333",
